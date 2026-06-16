@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tentación prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-prohibida/) |
+| **Get License** | [Get License For Tentación prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ac903f0f63af273efddd689325dd5344e4906707996b005f51919f487d62eb15` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

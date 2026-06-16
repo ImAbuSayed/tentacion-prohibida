@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tentación prohibida
+
+This log tracks the cryptographic history and versioning for the song **Tentación prohibida** (tentacion-prohibida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:33:48.371413 | `v1` | `ac903f0f63af273efddd689325dd5344e4906707996b005f51919f487d62eb15` | `2a3a6c49b8de231e015f0d880787b9125e0b3f4a58d034c09c4dd189e7d14d61` | `2026-06-16_tentacion-prohibida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

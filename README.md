@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tentación prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-prohibida/) |
+| **Get License** | [Secure Licensing Rights for Tentación prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos dicen que esta noche no vas a dormir
+> Baby, me acercas a tu fuego y me vas a fundir
+> Una tentación prohibida, you know what I mean
+> Bailando en lo oscuro, montando una movie scene
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
